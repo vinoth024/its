@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **HTML and CSS**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning  **Java** ,**Python** and **Javascript**
 
 - 👯 I’m looking to collaborate on **Back End Developer**
 
