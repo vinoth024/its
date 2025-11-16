@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **HTML and CSS**
 
-- 🌱 I’m currently learning  **Java** ,**Python** and **Javascript**
+- 🌱 I’m currently learning  **Java** ,**Python** and **MYSQL**
 
-- 👯 I’m looking to collaborate on **Back End Developer**
+- 👯 I’m looking to collaborate on **FrontEnd Developer**
 
-- 🤝 I’m looking for help with **Java Script**
+- 🤝 I’m looking for help with **Angular**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS, Type Script and Angular**
 
 - 📫 How to reach me **vinothramesh2002@gmail.com**
 
